@@ -1,1 +1,2 @@
-test1,test2,test3
+Ticker,Quantity,LimitOrder,ConfidenceLevel
+AAPL,5,132,0.9
